@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ff2489
-- 👀 I’m interested in SDG 4.7: Quality Education
-- 🌱 I’m currently learning Human Rights
+- 👋 Hi, I’m Fathia Fairuza
+- 👀 I’m interested in SDG 4: Quality Education
+- 🌱 I’m currently learning Human Rights at Columbia University
 - 💞️ I’m looking to collaborate on the issue of education
 - 📫 find me on Instagram: @fathiafairuza
 
